@@ -59,8 +59,7 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Institution | Degree / Level | Year |
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
-| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
-| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
+
 
 </div>
 
