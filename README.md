@@ -52,39 +52,45 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 
 ---
 
+## 🎓 Education
+
+<div align="center">
+
+| Institution | Degree / Level | Year |
+|---|---|:---:|
+| **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
+| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
+| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6d5ef5?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 **AI, Cloud & Tooling**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-151318?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode" />
 
 **Web3**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-c7a3ff?style=flat-square&logo=web3dotjs&logoColor=black)
+<img src="https://skillicons.dev/icons?i=solidity" />
+
+</div>
 
 ---
 
@@ -183,40 +189,52 @@ Volunteer teaching for underprivileged children from slum communities in Dehradu
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🏢 SWE Job Simulation | JPMorgan Chase (Apr 2026) |
-| 🤖 Robotics & Controls Job Simulation | Johnson & Johnson (Apr 2026) |
-| 📊 Data Analytics Job Simulation | Deloitte (Apr 2026) |
+|:---:|---|
+| 🏢 **Software Engineering Job Simulation** | **JPMorgan Chase** — Apr 2026 |
+| 🤖 **Robotics & Controls Job Simulation** | **Johnson & Johnson** — Apr 2026 |
+| 📊 **Data Analytics Job Simulation** | **Deloitte** — Apr 2026 |
 
 </div>
+
+> Completed via Forage — hands-on simulations of real engineering, robotics, and analytics workflows used at these companies.
 
 ---
 
 ## 📜 Certifications
 
-**AWS**
+### 🟠 AWS
 
-![AWS](https://img.shields.io/badge/Generative_AI:_Art_of_the_Possible-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/Foundations_of_Prompt_Engineering-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Introduction_to_Generative_AI_—_Art_of_the_Possible-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Foundations_of_Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Microsoft / LinkedIn**
+> **Issued:** Jun 2026
 
-![Microsoft](https://img.shields.io/badge/Azure_AI_Essentials_Professional_Certificate-0089D6?style=flat-square&logo=microsoft&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Semantic_Kernel:_Building_AI_Apps-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+### 🔵 Microsoft & LinkedIn
 
-**Scaler**
+![Microsoft](https://img.shields.io/badge/Azure_AI_Essentials_Professional_Certificate-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Introducing_Semantic_Kernel:_Building_AI_Based_Apps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Scaler](https://img.shields.io/badge/Java:_Mastering_the_Fundamentals-6d5ef5?style=flat-square)
-![Scaler](https://img.shields.io/badge/Python_for_Beginners-6d5ef5?style=flat-square)
+> **Issued:** Jun 2026
 
-**HP LIFE**
+### 🟣 Scaler
 
-![HP LIFE](https://img.shields.io/badge/Data_Science_%26_Analytics-8b7bf0?style=flat-square)
-![HP LIFE](https://img.shields.io/badge/AI_for_Beginners-8b7bf0?style=flat-square)
+![Scaler](https://img.shields.io/badge/Java_Course_—_Mastering_the_Fundamentals-6d5ef5?style=for-the-badge)
+![Scaler](https://img.shields.io/badge/Python_Course_for_Beginners_With_Certification-6d5ef5?style=for-the-badge)
 
-**Other**
+> **Issued:** Jun 2026
 
-![Disha AI](https://img.shields.io/badge/GenAI_in_Practice-c7a3ff?style=flat-square)
+### 🟢 HP LIFE
+
+![HP LIFE](https://img.shields.io/badge/Data_Science_%26_Analytics-8b7bf0?style=for-the-badge)
+![HP LIFE](https://img.shields.io/badge/AI_for_Beginners-8b7bf0?style=for-the-badge)
+
+> **Issued:** Jun 2026
+
+### 🟪 Other Providers
+
+![Disha AI](https://img.shields.io/badge/GenAI_in_Practice_—_Disha_AI-c7a3ff?style=for-the-badge)
+
+> **Issued:** May 2025
 
 ---
 
