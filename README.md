@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+%40+UPES;Building+with+Python%2C+Java+%26+C%2B%2B;Exploring+GenAI%2C+NLP+%26+Blockchain;Open+to+Internships+%2F+SDE+Roles" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+
 <br/>
 
 ![UPES](https://img.shields.io/badge/UPES-B.Tech_CSE_(AIML)-6d5ef5?style=flat-square&labelColor=0a0a12)
@@ -30,6 +34,14 @@
 
 ## 🧠 About Me
 
+```txt
+class MadhavSemwal:
+    def __init__(self):
+        self.role = "CSE (AI & ML) Undergraduate @ UPES, Dehradun"
+        self.focus = ["Software Engineering", "Applied AI/ML", "Full Stack Development"]
+        self.mindset = "Ship things that actually work — then make them better"
+        self.currently = "Summer Intern @ Elips Technology Private Limited"
+```
 
 I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-end — from smart contracts to sentiment models to the interfaces that wrap around them. My work leans toward **practical AI applications**, **full stack web development**, and writing code that's clean enough for someone else to read at 2 AM.
 
@@ -50,6 +62,8 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Institution | Degree / Level | Year |
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
+| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
+| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
 
 </div>
 
@@ -113,6 +127,10 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 
 </td>
 <td width="33%" valign="top">
+
+### 🧩 Core Concepts
+`OOP` `Data Structures & Algorithms`
+`REST APIs` `Problem Solving`
 
 </td>
 </tr>
