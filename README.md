@@ -59,37 +59,75 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Institution | Degree / Level | Year |
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
-
+| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
+| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-**Languages**
-
+### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
-**Frontend**
+</td>
+<td width="33%" valign="top">
 
+### 🌐 Frontend & Web
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
-**Backend & Databases**
+</td>
+<td width="33%" valign="top">
 
+### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs" />
 
-**AI, Cloud & Tooling**
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode" />
+### 🧠 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
 
-**Web3**
+</td>
+<td width="33%" valign="top">
 
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🔗 Web3 & Blockchain
 <img src="https://skillicons.dev/icons?i=solidity" />
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧰 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data & Analytics
+<img src="https://skillicons.dev/icons?i=py" />
+<sub>Pandas · Matplotlib · NLTK</sub>
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -247,17 +285,6 @@ Volunteer teaching for underprivileged children from slum communities in Dehradu
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madhavcodes-07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&icon_color=6d5ef5&text_color=e8e3ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes-07&theme=radical&hide_border=true&background=0a0a12&stroke=6d5ef5&ring=8b7bf0&fire=a78bfa&currStreakLabel=e8e3ff" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavcodes-07&layout=compact&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&text_color=e8e3ff" width="49%"/>
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -310,9 +337,31 @@ focus:
 
 <div align="center">
 
+<a href="mailto:madhavsemwal52@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/madhav-semwal01"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/madhavcodes-07"><img src="https://skillicons.dev/icons?i=github" width="60" height="60" /></a>
+
+<br/><br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsemwal52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-semwal01)
 [![GitHub](https://img.shields.io/badge/GitHub-151318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavcodes-07)
+
+</div>
+
+---
+
+## 📈 GitHub Stats Highlight
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhavcodes-07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&icon_color=6d5ef5&text_color=e8e3ff" width="60%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes-07&theme=radical&hide_border=true&background=0a0a12&stroke=6d5ef5&ring=8b7bf0&fire=a78bfa&currStreakLabel=e8e3ff" width="70%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=madhavcodes-07&color=6d5ef5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
