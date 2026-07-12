@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500" />
-
-<br/>
-
 ![UPES](https://img.shields.io/badge/UPES-B.Tech_CSE_(AIML)-6d5ef5?style=flat-square&labelColor=0a0a12)
 ![Year](https://img.shields.io/badge/3rd_Year-2026--27-8b7bf0?style=flat-square&labelColor=0a0a12)
 ![Location](https://img.shields.io/badge/📍-Dehradun,_India-6d5ef5?style=flat-square&labelColor=0a0a12)
