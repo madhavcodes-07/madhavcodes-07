@@ -134,12 +134,12 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 ## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|:---:|---|
-| **Generative AI & Prompt Engineering** | 🟣🟣🟣⚪⚪ | AWS Foundations of Prompt Engineering, GenAI in Practice (Disha AI) |
-| **NLP** | 🟣🟣🟣⚪⚪ | Tokenisation, TF-IDF, VADER sentiment scoring, applied in a real project |
-| **Semantic Kernel / AI App Building** | 🟣🟣⚪⚪⚪ | LinkedIn Learning — Introducing Semantic Kernel |
-| **Deep Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Coursework via Azure AI Essentials & HP LIFE AI for Beginners |
-| **Data Science & Analytics** | 🟣🟣🟣⚪⚪ | HP LIFE Data Science & Analytics, Pandas/Matplotlib in practice |
+|---|---|---|
+| **Generative AI & Prompt Engineering** | ![](https://progress-bar.xyz/75/?width=120&color=8b7bf0&title=&suffix=%25) | AWS Foundations of Prompt Engineering, GenAI in Practice (Disha AI) |
+| **NLP** | ![](https://progress-bar.xyz/70/?width=120&color=8b7bf0&title=&suffix=%25) | Tokenisation, TF-IDF, VADER sentiment scoring, applied in a real project |
+| **Semantic Kernel / AI App Building** | ![](https://progress-bar.xyz/55/?width=120&color=6d5ef5&title=&suffix=%25) | LinkedIn Learning — Introducing Semantic Kernel |
+| **Deep Learning Fundamentals** | ![](https://progress-bar.xyz/55/?width=120&color=6d5ef5&title=&suffix=%25) | Coursework via Azure AI Essentials & HP LIFE AI for Beginners |
+| **Data Science & Analytics** | ![](https://progress-bar.xyz/70/?width=120&color=8b7bf0&title=&suffix=%25) | HP LIFE Data Science & Analytics, Pandas/Matplotlib in practice |
 
 ---
 
