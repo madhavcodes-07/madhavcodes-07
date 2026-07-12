@@ -59,7 +59,8 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Institution | Degree / Level | Year |
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
-
+| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
+| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
 
 </div>
 
@@ -279,6 +280,10 @@ Volunteer teaching for underprivileged children from slum communities in Dehradu
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/madhavsemwal521)
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/madhavsemwal521?theme=dark&font=baloo2&ext=heatmap" width="70%"/>
 
 </div>
 
