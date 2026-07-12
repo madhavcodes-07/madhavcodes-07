@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:2d1b4e,100:6d5ef5&height=220&section=header&text=Madhav%20Semwal&fontSize=48&fontColor=e8e3ff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20Student%20%7C%20Software%20%26%20AI%20Engineer%20in%20progress&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:2d1b4e,100:6d5ef5&height=200&section=header&text=Madhav%20Semwal&fontSize=45&fontColor=e8e3ff&animation=fadeIn&fontAlignY=35&desc=CSE%20AI%20%26%20ML%20Student%20-%20Software%20Engineer%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/madhavcodes-07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+%40+UPES;Building+with+Python%2C+Java+%26+C%2B%2B;Exploring+GenAI+%2C+NLP+%26+Blockchain;Open+to+Internships+%2F+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+%40+UPES;Building+with+Python%2C+Java+%26+C%2B%2B;Exploring+GenAI%2C+NLP+%26+Blockchain;Open+to+Internships+%2F+SDE+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,9 +14,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6d5ef5)](https://github.com/madhavcodes-07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-semwal01)
-[![Gmail](https://img.shields.io/badge/Email-6d5ef5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsemwal52@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsemwal52@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-151318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavcodes-07)
 
 <br/>
