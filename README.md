@@ -30,14 +30,6 @@
 
 ## 🧠 About Me
 
-```txt
-class MadhavSemwal:
-    def __init__(self):
-        self.role = "CSE (AI & ML) Undergraduate @ UPES, Dehradun"
-        self.focus = ["Software Engineering", "Applied AI/ML", "Full Stack Development"]
-        self.mindset = "Ship things that actually work — then make them better"
-        self.currently = "Summer Intern @ Elips Technology Private Limited"
-```
 
 I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-end — from smart contracts to sentiment models to the interfaces that wrap around them. My work leans toward **practical AI applications**, **full stack web development**, and writing code that's clean enough for someone else to read at 2 AM.
 
@@ -58,8 +50,6 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Institution | Degree / Level | Year |
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
-| **Saraswati Vidya Mandir, CBSE** | Class 12 | 2024 — **70%** |
-| **Saraswati Vidya Mandir, CBSE** | Class 10 | 2022 — **80%** |
 
 </div>
 
