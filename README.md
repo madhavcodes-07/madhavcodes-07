@@ -30,14 +30,6 @@
 
 ## 🧠 About Me
 
-```txt
-class MadhavSemwal:
-    def __init__(self):
-        self.role = "CSE (AI & ML) Undergraduate @ UPES, Dehradun"
-        self.focus = ["Software Engineering", "Applied AI/ML", "Full Stack Development"]
-        self.mindset = "Ship things that actually work — then make them better"
-        self.currently = "Summer Intern @ Elips Technology Private Limited"
-```
 
 I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-end — from smart contracts to sentiment models to the interfaces that wrap around them. My work leans toward **practical AI applications**, **full stack web development**, and writing code that's clean enough for someone else to read at 2 AM.
 
