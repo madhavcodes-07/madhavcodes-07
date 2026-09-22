@@ -1,45 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:2d1b4e,100:6d5ef5&height=200&section=header&text=Madhav%20Semwal&fontSize=45&fontColor=e8e3ff&animation=fadeIn&fontAlignY=35&desc=CSE%20AI%20%26%20ML%20Student%20-%20Software%20Engineer%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:2d1b4e,100:6d5ef5&height=220&section=header&text=Madhav%20Semwal&fontSize=48&fontColor=e8e3ff&animation=fadeIn&fontAlignY=35&desc=CSE%20AI%20%26%20ML%20Student%20-%20Software%20Engineer%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/madhavcodes-07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI+%26+ML)+%40+UPES;Building+with+Python%2C+Java+%26+C%2B%2B;Exploring+GenAI%2C+NLP+%26+Blockchain;Open+to+Internships+%2F+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+UPES;Building+with+Python%2C+Java+%26+C%2B%2B;Exploring+GenAI%2C+NLP+%26+Blockchain;500%2B+Problems+Solved+on+LeetCode;Open+to+Internships+%2F+SDE+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![UPES](https://img.shields.io/badge/UPES-B.Tech_CSE_(AIML)-6d5ef5?style=flat-square&labelColor=0a0a12)
-![Year](https://img.shields.io/badge/3rd_Year-2026--27-8b7bf0?style=flat-square&labelColor=0a0a12)
-![Location](https://img.shields.io/badge/📍-Dehradun,_India-6d5ef5?style=flat-square&labelColor=0a0a12)
+![UPES](https://img.shields.io/badge/UPES-B.Tech_CSE_(AIML)-6d5ef5?style=for-the-badge&labelColor=0a0a12)
+![Year](https://img.shields.io/badge/3rd_Year-2026--27-8b7bf0?style=for-the-badge&labelColor=0a0a12)
+![Location](https://img.shields.io/badge/📍-Dehradun,_India-6d5ef5?style=for-the-badge&labelColor=0a0a12)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-semwal01)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsemwal52@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-151318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavcodes-07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/madhavsemwal521)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhavcodes-07&color=6d5ef5&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/madhavcodes-07?style=flat-square&color=8b7bf0&labelColor=0a0a12)
-![Stars](https://img.shields.io/github/stars/madhavcodes-07?style=flat-square&color=8b7bf0&labelColor=0a0a12)
+![Profile Views](https://komarev.com/ghpvc/?username=madhavcodes-07&color=6d5ef5&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/madhavcodes-07?style=for-the-badge&color=8b7bf0&labelColor=0a0a12)
+![Stars](https://img.shields.io/github/stars/madhavcodes-07?style=for-the-badge&color=8b7bf0&labelColor=0a0a12)
 
 </div>
 
----
+<br/>
 
 ## 🧠 About Me
 
+```yaml
+whoami:
+  name: "Madhav Semwal"
+  role: "CSE (AI & ML) Undergrad · Aspiring Software Engineer"
+  based_in: "Dehradun, India"
+  currently:
+    - "🔭 Software Development Intern @ Elips Technology Private Limited"
+    - "🌱 Deepening Generative AI, Prompt Engineering & Semantic Kernel"
+    - "🤝 Ex-Teaching Intern — mentored underprivileged students in Dehradun"
+    - "💻 Grinding DSA & climbing the LeetCode leaderboard"
+  ask_me_about:
+    - "Python · DSA · NLP basics · Blockchain / Web3"
+  reach_me: "madhavsemwal52@gmail.com"
+  open_to:
+    - "Software Engineering Internships"
+    - "AI / ML Internships"
+    - "Open Source Collaboration"
+```
 
-I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-end — from smart contracts to sentiment models to the interfaces that wrap around them. My work leans toward **practical AI applications**, **full stack web development**, and writing code that's clean enough for someone else to read at 2 AM.
-
-- 🔭 Currently interning as a **Software Development Intern** at **Elips Technology Private Limited**
-- 🌱 Deepening my grasp of **Generative AI, Prompt Engineering & Semantic Kernel**
-- 🤝 Previously volunteered as a **Teaching Intern**, mentoring underprivileged students in Dehradun
-- 💬 Ask me about **Python, DSA, NLP basics, or Blockchain/Web3**
-- 📫 Reach me at **madhavsemwal52@gmail.com**
-
-**Open To:** Software Engineering Internships · AI/ML Internships · Open Source Collaboration
+I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-end — from smart contracts to sentiment models to the interfaces that wrap around them. My work leans toward **practical AI applications**, **full-stack web development**, and writing code that's clean enough for someone else to read at 2 AM.
 
 ---
 
@@ -51,7 +62,6 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 |---|---|:---:|
 | **University of Petroleum & Energy Studies (UPES), Dehradun** | B.Tech — Computer Science (AI & ML) | 2024 – 2028 |
 
-
 </div>
 
 ---
@@ -62,7 +72,7 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 <tr>
 <td width="33%" valign="top">
 
-### 💻 Programming Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
 </td>
@@ -74,7 +84,7 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs" />
 
 </td>
@@ -102,7 +112,7 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 <tr>
 <td width="33%" valign="top">
 
-### 🧰 Development Tools
+### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
@@ -116,8 +126,7 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 <td width="33%" valign="top">
 
 ### 🧩 Core Concepts
-`OOP` `Data Structures & Algorithms`
-`REST APIs` `Problem Solving`
+`OOP` `DSA` `REST APIs` `System Design Basics`
 
 </td>
 </tr>
@@ -130,9 +139,9 @@ I'm a third-year Computer Science (AI & ML) student who enjoys building end-to-e
 | Domain | Details |
 |---|---|
 | **Generative AI & Prompt Engineering** | AWS Foundations of Prompt Engineering, GenAI in Practice (Disha AI) |
-| **NLP** | Tokenisation, TF-IDF, VADER sentiment scoring, applied in a real project |
+| **NLP** | Tokenisation, TF-IDF, VADER sentiment scoring — applied in a real project |
 | **Semantic Kernel / AI App Building** | LinkedIn Learning — Introducing Semantic Kernel |
-| **Deep Learning Fundamentals** | Coursework via Azure AI Essentials & HP LIFE AI for Beginners |
+| **Deep Learning Fundamentals** | Azure AI Essentials & HP LIFE AI for Beginners |
 | **Data Science & Analytics** | HP LIFE Data Science & Analytics, Pandas/Matplotlib in practice |
 
 ---
@@ -231,49 +240,19 @@ Volunteer teaching for underprivileged children from slum communities in Dehradu
 
 ---
 
-## 📜 Certifications
-
-### 🟠 AWS
-
-![AWS](https://img.shields.io/badge/Introduction_to_Generative_AI_—_Art_of_the_Possible-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/Foundations_of_Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-> **Issued:** Jun 2026
-
-### 🔵 Microsoft & LinkedIn
-
-![Microsoft](https://img.shields.io/badge/Azure_AI_Essentials_Professional_Certificate-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Introducing_Semantic_Kernel:_Building_AI_Based_Apps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-> **Issued:** Jun 2026
-
-### 🟣 Scaler
-
-![Scaler](https://img.shields.io/badge/Java_Course_—_Mastering_the_Fundamentals-6d5ef5?style=for-the-badge)
-![Scaler](https://img.shields.io/badge/Python_Course_for_Beginners_With_Certification-6d5ef5?style=for-the-badge)
-
-> **Issued:** Jun 2026
-
-### 🟢 HP LIFE
-
-![HP LIFE](https://img.shields.io/badge/Data_Science_%26_Analytics-8b7bf0?style=for-the-badge)
-![HP LIFE](https://img.shields.io/badge/AI_for_Beginners-8b7bf0?style=for-the-badge)
-
-> **Issued:** Jun 2026
-
-### 🟪 Other Providers
-
-![Disha AI](https://img.shields.io/badge/GenAI_in_Practice_—_Disha_AI-c7a3ff?style=for-the-badge)
-
-> **Issued:** May 2025
-
----
-
-## 👨‍💻 Coding Profiles
+## 👨‍💻 LeetCode Profile & Badges
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/madhavsemwal521)
+
+<br/>
+
+<img src="assets/leetcode-50-days.png" width="200"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/leetcode-100-days.png" width="200"/>
+
+<sub>Earned by solving daily LeetCode challenges consistently — 50 & 100 day streaks completed in 2026 🔥</sub>
 
 <br/><br/>
 
@@ -306,6 +285,47 @@ Volunteer teaching for underprivileged children from slum communities in Dehradu
 <img src="https://raw.githubusercontent.com/madhavcodes-07/madhavcodes-07/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhavcodes-07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&icon_color=6d5ef5&text_color=e8e3ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavcodes-07&layout=compact&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&text_color=e8e3ff" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes-07&theme=radical&hide_border=true&background=0a0a12&stroke=6d5ef5&ring=8b7bf0&fire=a78bfa&currStreakLabel=e8e3ff" width="70%"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+### 🟠 AWS
+![AWS](https://img.shields.io/badge/Introduction_to_Generative_AI_—_Art_of_the_Possible-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Foundations_of_Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+> **Issued:** Jun 2026
+
+### 🔵 Microsoft & LinkedIn
+![Microsoft](https://img.shields.io/badge/Azure_AI_Essentials_Professional_Certificate-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Introducing_Semantic_Kernel:_Building_AI_Based_Apps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+> **Issued:** Jun 2026
+
+### 🟣 Scaler
+![Scaler](https://img.shields.io/badge/Java_Course_—_Mastering_the_Fundamentals-6d5ef5?style=for-the-badge)
+![Scaler](https://img.shields.io/badge/Python_Course_for_Beginners_With_Certification-6d5ef5?style=for-the-badge)
+> **Issued:** Jun 2026
+
+### 🟢 HP LIFE
+![HP LIFE](https://img.shields.io/badge/Data_Science_%26_Analytics-8b7bf0?style=for-the-badge)
+![HP LIFE](https://img.shields.io/badge/AI_for_Beginners-8b7bf0?style=for-the-badge)
+> **Issued:** Jun 2026
+
+### 🟪 Other Providers
+![Disha AI](https://img.shields.io/badge/GenAI_in_Practice_—_Disha_AI-c7a3ff?style=for-the-badge)
+> **Issued:** May 2025
 
 ---
 
@@ -346,20 +366,6 @@ focus:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsemwal52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-semwal01)
 [![GitHub](https://img.shields.io/badge/GitHub-151318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavcodes-07)
-
-</div>
-
----
-
-## 📈 GitHub Stats Highlight
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madhavcodes-07&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a12&title_color=8b7bf0&icon_color=6d5ef5&text_color=e8e3ff" width="60%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes-07&theme=radical&hide_border=true&background=0a0a12&stroke=6d5ef5&ring=8b7bf0&fire=a78bfa&currStreakLabel=e8e3ff" width="70%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=madhavcodes-07&color=6d5ef5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
